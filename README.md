@@ -53,7 +53,7 @@ I’m focused on creating **real-world solutions** to real-world problems — bu
 
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkeAyomidePeter&show_icons=true&theme=tokyonight)  
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=OkeAyomidePeter&layout=compact&theme=tokyonight](https://camo.githubusercontent.com/998aa219e08d8f147ccbb0901ef3fd9a792e7b20bc365a9591dc264ede483f7e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4f6b6541796f6d6964655065746572266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874))  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkeAyomidePeter&layout=compact&theme=tokyonight)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OkeAyomidePeter&theme=tokyo-night)  
 
