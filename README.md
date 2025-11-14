@@ -17,7 +17,7 @@ I’m focused on creating **real-world solutions** to real-world problems — bu
 ## 🛠 Tech Stack
 
 **Languages**  
-🐍 Python • ⚡ JavaScript • 🦀 Rust  
+🐍 Python • ⚡ JavaScript/TypeScript • 🦀 Rust  
 
 **Frontend**  
 ⚛️ React • 📱 React Native • 🎨 TailwindCSS  
@@ -26,7 +26,7 @@ I’m focused on creating **real-world solutions** to real-world problems — bu
 🚀 FastAPI • 🐘 PostgreSQL • 🟢 Node.js • ⚡ Redis  
 
 **Blockchain**  
-🔥 Solana • 🌊 Sui  
+🔥 Solana • Evm  
 
 **DevOps & Tools**  
 🐳 Docker • ☁️ AWS • 🔄 GitHub Actions • ⚙️ CI/CD  
@@ -43,9 +43,9 @@ I’m focused on creating **real-world solutions** to real-world problems — bu
 ## 📫 Connect with me  
 - 📧 [Email](mailto:ayoo52294@gmail.com)  
 - 🐦 [X](https://twitter.com/OkeAyomidePeter)  
-- 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayomide-peter-oke-483420273/)  
 - 📸 [Instagram](https://instagram.com/0x_invictus)  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
+- 🌐 [Portfolio Website](https://invictus-beta.vercel.app/)  
 
 ---
 
