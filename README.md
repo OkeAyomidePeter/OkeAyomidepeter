@@ -47,18 +47,4 @@ I’m focused on creating **real-world solutions** to real-world problems — bu
 - 📸 [Instagram](https://instagram.com/0x_invictus)  
 - 🌐 [Portfolio Website](https://invictus-beta.vercel.app/)  
 
----
 
-## 📊 GitHub Stats  
-
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkeAyomidePeter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkeAyomidePeter&layout=compact&theme=tokyonight&count_private=true&langs_count=8&hide=html,css,scss)
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OkeAyomidePeter&theme=tokyo-night&hide_border=true)
-
-
----
-
-✨ _This README is the home of my brand — keep an eye out for projects, packages, and experiments._  
