@@ -1,47 +1,17 @@
-# Hey, I'm Oke Ayomide Peter 👋
+# Oke Ayomide Peter
 
-🚀 Startup Founder | Full Stack & Web3 Developer
+Full-Stack & Web3 Developer. I build open-source tools and research practical problems in software and blockchain systems.
 
-I’m focused on creating **real-world solutions** to real-world problems — building open-source tools, experimenting with Web3, and exploring the edge of AI/ML.
+## Tech Stack
 
----
+`Python` `JavaScript` `TypeScript` `Rust` `React` `React Native` `Node.js` `FastAPI` `PostgreSQL` `Redis` `Solana` `EVM` `Docker` `AWS`
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OkeAyomidePeter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkeAyomidePeter&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
----
+## Connect
 
-## 🛠 Tech Stack
-
-**Languages**
-🐍 Python • ⚡ JavaScript/TypeScript • 🦀 Rust
-
-**Frontend**
-⚛️ React • 📱 React Native • 🎨 TailwindCSS
-
-**Backend**
-🚀 FastAPI • 🐘 PostgreSQL • 🟢 Node.js • ⚡ Redis
-
-**Blockchain**
-🔥 Solana • Evm
-
-**DevOps & Tools**
-🐳 Docker • ☁️ AWS • 🔄 GitHub Actions • ☁️ Azure
-
----
-
-<div align="center">
-  <h3>My Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OkeAyomidePeter&theme=tokyonight" />
-</div>
----
-
-## 📫 Connect with me
-- 📧 [Email](mailto:ayoo52294@gmail.com)
-- 🐦 [X](https://twitter.com/OkeAyomidePeter)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayomide-peter-oke-483420273/)
-- 📸 [Instagram](https://instagram.com/0x_invictus)
-- 🌐 [Portfolio Website](https://invictus-beta.vercel.app/)
+<p>
+  <a href="mailto:ayoo52294@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/OkeAyomidePeter"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/ayomide-peter-oke-483420273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/0x_invictus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://invictus-beta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
